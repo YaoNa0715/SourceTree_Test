@@ -4,4 +4,8 @@ wyocklls
 123
 add func1
 add func2
+<<<<<<< HEAD
 code conclick1
+=======
+code conclick3
+>>>>>>> 544a19fa9b97a838507cc5f1eec03718c8f35593
